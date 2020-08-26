@@ -1,6 +1,6 @@
 {% set name = "nbclient" %}
-{% set version = "0.4.1" %}
-{% set sha256 = "31fdb4bd45ebcd98eeda01e2c38fb391eae8a8480bdddbebb6cfd088486948a7" %}
+{% set version = "0.4.2" %}
+{% set sha256 = "5dff9595d8b2be1bd304b6142b138e911419c601d02133cbe001a0edbd212634" %}
 
 package:
   name: {{ name|lower }}
