@@ -5,9 +5,13 @@ Home: https://jupyter.org
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/nsls-ii-forge/nbclient-feedstock/blob/master/LICENSE.txt)
 
 Summary: A client library for executing notebooks. Formally nbconvert's ExecutePreprocessor.
+
+Development: https://github.com/jupyter/nbclient
+
+Documentation: https://nbclient.readthedocs.io
 
 NBClient is a tool for parameterizing and executing Jupyter Notebooks.
 NBClient lets you execute notebooks. Similar in nature to jupyter_client, as the jupyter_client
